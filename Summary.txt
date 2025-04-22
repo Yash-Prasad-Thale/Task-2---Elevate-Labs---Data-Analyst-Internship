@@ -1,0 +1,4 @@
+Summary:
+1. Calculated Profit, Sales, % Returned products,  Previous year:( Profit, Sales, Returned products), Vs Previous year: ( Profit, Sales, Returned products) percentages.
+2. Made visualizations for the calculated performance indicators Profit categorization, Sales overtime, PY Sales overtime, a table of top 5 products by sales, and top states sales wise.
+3. Did conditional formating for the Profit by category and VS Previous year comparisons.
